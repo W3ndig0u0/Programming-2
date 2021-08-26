@@ -1,8 +1,6 @@
-using System;
-
 namespace Test
 {
-  class yo
+  class Yo
   {
     public string yoo = "yoooooooooooooooooooooo";
     public bool yooQuestion = false;

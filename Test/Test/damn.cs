@@ -1,8 +1,6 @@
-using System;
-
 namespace Test
 {
-  public class damn
+  public class Damn
   {
 
     public int x;

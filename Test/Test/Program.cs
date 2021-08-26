@@ -6,13 +6,13 @@ namespace Test
   {
     static void Main(string[] args)
     {
-      yo yo1 = new yo();
+      Yo Yo1 = new Yo();
 
-      string yooo = yo1.yoo;
+      string yooo = Yo1.yoo;
       Console.WriteLine(yooo);
       Console.WriteLine("Är det sant?");
 
-      Console.WriteLine(yo1.yooQuestion);
+      Console.WriteLine(Yo1.yooQuestion);
 
       Console.ReadKey();
 
