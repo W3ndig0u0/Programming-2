@@ -5,7 +5,7 @@ namespace Test
     public int currHoldingInv;
     public int currAmountInv;
     public int maxInv;
-    public int damage;
+    public int dmg;
     public int maxHp;
     public int currHp;
     public string currAmountInvName;

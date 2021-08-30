@@ -14,7 +14,7 @@ namespace Test
       player.name = "Bob The builder";
       player.maxHp = 100;
       player.currHp = 80;
-      player.damage = 12;
+      player.dmg = 12;
       player.currHoldingInv = 1;
       player.currAmountInv = 2;
       player.currAmountInvName = "Sword";
@@ -30,7 +30,7 @@ namespace Test
 
       Console.WriteLine($"Name: {player.name}");
       Console.WriteLine($"Health: {player.currHp} / {player.maxHp} hp");
-      Console.WriteLine($"Currently Holding Inventory Nr: {player.currHoldingInv},  {player.currAmountInvName} {player.damage} dmg");
+      Console.WriteLine($"Currently Holding Inventory Nr: {player.currHoldingInv},  {player.currAmountInvName} {player.dmg} dmg");
       Console.WriteLine($"Current Amount of Inventory: {player.currAmountInv}");
       Console.WriteLine($"Max Inventory: {player.maxInv}");
       Console.WriteLine($"Currently in the air: {player.inAir}");
