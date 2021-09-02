@@ -11,18 +11,19 @@ namespace Test
 
       string yooo = Yo1.yoo;
 
-      player.name = "Bob The builder";
-      player.maxHp = 100;
-      player.currHp = 80;
-      player.dmg = 12;
-      player.currHoldingInv = 1;
-      player.currAmountInv = 2;
-      player.currAmountInvName = "Sword";
-      player.maxInv = 3;
-      player.inAir = false;
-      player.runningAvailable = true;
-      player.powerAvailable = true;
-      player.jumpingAvailable = true;
+      // player.name = "Bob The builder";
+      // player.maxHp = 100;
+      // player.currHp = 80;
+      // player.dmg = 12;
+      // player.currHoldingInv = 1;
+      // player.currAmountInv = 2;
+      // player.currAmountInvName = "Sword";
+      // player.maxInv = 3;
+      // player.inAir = false;
+      // player.runningAvailable = true;
+      // player.powerAvailable = true;
+      // player.jumpingAvailable = true;
+
 
       // Console.WriteLine(yooo);
       // Console.WriteLine("Är det sant?");
