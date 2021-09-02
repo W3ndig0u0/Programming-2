@@ -9,8 +9,8 @@ namespace Test
       Yo Yo1 = new Yo();
       Player player = new Player();
 
-      string yooo = Yo1.yoo;
 
+      string yooo = Yo1.yoo;
       player.name = "Bob The builder";
       player.maxHp = 100;
       player.currHp = 80;
